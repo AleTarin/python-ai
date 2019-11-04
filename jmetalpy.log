@@ -257,3 +257,65 @@
 2019-11-03 14:58:24,552 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
 2019-11-03 14:59:25,920 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
 2019-11-03 14:59:25,924 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 19:16:44,536 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 19:16:44,541 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 19:52:43,818 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 19:52:43,828 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 19:59:03,376 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 19:59:03,380 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 20:04:14,682 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 20:04:14,699 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 20:06:34,220 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 20:06:34,231 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 20:10:01,210 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 20:10:01,214 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-04 10:15:39,605 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-04 10:15:39,613 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-04 10:27:27,957 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-04 10:27:27,964 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-04 10:38:37,957 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-04 10:38:37,960 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-04 12:09:02,261 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-04 12:09:02,265 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-04 12:09:50,314 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-04 12:09:50,320 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-04 12:26:31,023 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 12:26:31,027 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 13:48:39,419 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 13:48:39,430 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 13:49:39,289 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 13:49:39,294 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 13:58:41,779 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 13:58:41,783 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 13:59:35,110 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 13:59:35,112 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:00:34,975 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:00:34,977 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:01:26,269 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:01:26,271 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:02:14,758 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:02:14,763 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:02:52,622 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-04 14:02:52,631 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-04 14:03:19,816 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:03:19,819 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:11:28,296 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:11:28,298 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:17:05,015 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:17:05,018 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:17:31,152 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:17:31,155 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:17:58,876 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:17:58,880 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:18:22,871 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:18:22,874 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:35:29,593 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:35:29,597 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:37:06,201 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:37:06,204 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:37:26,240 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:37:26,244 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:38:06,070 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:38:06,074 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
+2019-11-04 14:41:12,211 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.Ejemplo
+2019-11-04 14:41:12,216 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.Ejemplo
