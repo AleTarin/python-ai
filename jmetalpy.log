@@ -1,0 +1,259 @@
+2019-09-30 11:04:16,088 [MainThread  ] [WARNI]  Reference front file was not found at mysolucionbonita.pf
+2019-09-30 11:04:54,085 [MainThread  ] [WARNI]  Reference front file was not found at mysolucionbonita.pf
+2019-09-30 11:04:54,085 [MainThread  ] [WARNI]  Reference front file was not found at mysolucionbonita.pf
+2019-10-03 11:09:41,539 [MainThread  ] [WARNI]  Reference front file was not found at resources/reference_front/ZDT1.pf
+2019-10-03 11:18:54,479 [MainThread  ] [WARNI]  Reference front file was not found at resources/reference_front/ZDT4.pf
+2019-10-24 15:02:30,703 [MainThread  ] [WARNI]  Reference front file was not found at resources/reference_front/ZDT4.pf
+2019-11-01 09:17:03,024 [MainThread  ] [WARNI]  Reference front file was not found at resources/reference_front/ZDT1.pf
+2019-11-01 09:30:27,230 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 09:30:27,240 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 14:50:38,502 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 14:50:38,512 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 14:52:44,967 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 14:52:44,970 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 14:55:16,372 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 14:55:16,375 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 14:59:02,883 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 14:59:02,886 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 14:59:50,819 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 14:59:50,822 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:01:34,745 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:01:34,749 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:21:48,347 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:21:48,359 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:23:55,970 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:23:55,973 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:28:05,101 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:28:05,160 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:40:17,738 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:40:17,746 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:44:42,482 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:44:42,488 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:49:17,434 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:49:17,437 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:52:21,530 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:52:21,533 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:54:13,782 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:54:13,785 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 15:57:24,934 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 15:57:24,937 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:17:15,846 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:17:15,849 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:18:54,232 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:18:54,234 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:20:32,601 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:20:32,604 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:21:24,330 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:21:24,334 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:28:13,896 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:28:13,901 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:32:42,501 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:32:42,516 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:39:23,932 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:39:23,935 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:41:37,183 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:41:37,186 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:44:11,544 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:44:11,548 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:55:13,813 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:55:13,816 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:56:26,254 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:56:26,267 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 16:57:19,068 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 16:57:19,074 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:00:33,736 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:00:33,741 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:07:01,384 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:07:01,386 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:21:00,174 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:21:00,181 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:45:15,162 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:45:15,166 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:50:16,995 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:50:16,998 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:51:17,435 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:51:17,438 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:54:30,936 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:54:30,946 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:55:53,591 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:55:53,595 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:56:50,888 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:56:50,893 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:57:15,660 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:57:15,662 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:58:11,028 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:58:11,032 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 17:58:45,845 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 17:58:45,854 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 18:04:22,226 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 18:04:22,230 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-01 21:13:53,125 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-01 21:13:53,128 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 10:58:35,650 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 10:58:35,654 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 10:59:00,142 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 10:59:00,146 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 10:59:59,692 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 10:59:59,695 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 11:00:17,345 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 11:00:17,350 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 14:45:09,722 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 14:45:09,737 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:21:13,584 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:21:13,592 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:23:45,519 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:23:45,526 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:25:58,152 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:25:58,158 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:26:33,682 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:26:33,687 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:28:35,186 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:28:35,209 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:29:49,939 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:29:49,945 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:30:51,087 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:30:51,116 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:31:56,885 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:31:56,889 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:33:17,816 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:33:17,821 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:35:15,160 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:35:15,164 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:35:56,696 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:35:56,702 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:45:31,371 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:45:31,378 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:46:46,156 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:46:46,163 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:53:19,727 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:53:19,735 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:53:40,711 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:53:40,714 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 15:57:54,784 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 15:57:54,797 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:02:51,718 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:02:51,723 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:04:25,740 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:04:25,744 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:04:45,432 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:04:45,439 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:05:04,771 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:05:04,776 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:06:21,394 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:06:21,398 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:07:32,048 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:07:32,052 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:21:09,372 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:21:09,375 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:22:16,917 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:22:16,921 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:23:43,665 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:23:43,670 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:24:48,079 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:24:48,081 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:25:44,918 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:25:44,922 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:26:06,405 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:26:06,408 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:26:23,637 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:26:23,641 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:27:47,939 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:27:47,945 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:28:05,272 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:28:05,276 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:28:24,006 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:28:24,010 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-02 16:29:10,652 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-02 16:29:10,656 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:25:31,000 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:25:31,010 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:28:19,019 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:28:19,022 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:28:52,337 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:28:52,340 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:29:10,652 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:29:10,656 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:29:38,598 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:29:38,602 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:30:13,027 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:30:13,031 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:30:28,653 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:30:28,657 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:30:43,272 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:30:43,276 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:31:11,680 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:31:11,684 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:31:32,844 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:31:32,848 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:31:47,836 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:31:47,839 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:32:04,063 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:32:04,066 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:32:49,514 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:32:49,518 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:33:03,775 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:33:03,780 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:33:27,956 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:33:27,960 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:35:06,528 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:35:06,532 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:35:24,117 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:35:24,121 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:36:44,747 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:36:44,751 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:37:00,817 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:37:00,820 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:39:07,191 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:39:07,195 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:39:23,376 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:39:23,381 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:45:22,675 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:45:22,679 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:48:12,557 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:48:12,560 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:50:52,464 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:50:52,466 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:53:51,608 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:53:51,612 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:54:03,513 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:54:03,516 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:55:06,761 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:55:06,764 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:55:19,269 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:55:19,273 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:55:39,573 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:55:39,576 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:55:52,571 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:55:52,575 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 13:56:11,541 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 13:56:11,544 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:17:14,677 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:17:14,682 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:18:14,928 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:18:14,932 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:22:22,784 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:22:22,789 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:22:41,786 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:22:41,790 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:32:01,577 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:32:01,580 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:33:12,751 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:33:12,755 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:35:39,935 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:35:39,938 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:49:05,915 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:49:05,918 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:49:34,292 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:49:34,295 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:50:03,953 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:50:03,956 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:50:50,532 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:50:50,536 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:54:02,130 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:54:02,135 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:55:42,357 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:55:42,364 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:58:24,545 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:58:24,552 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
+2019-11-03 14:59:25,920 [MainThread  ] [INFO ]  Output file (function values): FUN.NSGAII.SVM_Problem
+2019-11-03 14:59:25,924 [MainThread  ] [INFO ]  Output file (variables): VAR.NSGAII.SVM_Problem
